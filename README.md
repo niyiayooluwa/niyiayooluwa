@@ -35,7 +35,10 @@ I'm a **UI/UX Designer** and **Mobile Developer** passionate about creating beau
 - 🔍 Exploring advanced Jetpack Compose techniques
 - 🎯 Working on projects that combine my design and development expertise
 
-### 📫 Let's Connect
+### 🔗 Connect
+
+- **GitHub**: [Niyiayooluwa](https://github.com/niyiayooluwa)
+- **Email**: aytholu@gmail.com
 
 I love collaborating on projects that require both design thinking and technical implementation. Whether you need a designer who can code or a developer with an eye for design, let's chat!
 
