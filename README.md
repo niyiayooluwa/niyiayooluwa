@@ -1,5 +1,3 @@
----
-
 # Hi, I'm Tolu Abiola 👋
 
 ### Mobile Developer • UI/UX Designer
@@ -38,6 +36,3 @@ I build practical, clean, and reliable mobile experiences — and I design with 
 * **Email:** [aytholu@gmail.com](mailto:aytholu@gmail.com)
 
 > *“Good design is obvious. Great design is transparent.”*
-
----
-****
