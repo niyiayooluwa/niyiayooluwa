@@ -1,8 +1,8 @@
 # Hi, I'm Tolu Abiola 👋
 
-### Mobile Developer • UI/UX Designer
+### Software Engineer
 
-I build practical, clean, and reliable mobile experiences — and I design with the same discipline I code with.
+I build practical, clean, and reliable digital experiences — and I design with the same discipline I code with.
 
 ### What I focus on
 
@@ -23,6 +23,8 @@ I build practical, clean, and reliable mobile experiences — and I design with 
 * Jetpack Compose • Flutter
 * Figma • Design systems
 * Kotlin • Dart
+* Serverpod
+* Go
 
 ### What I’m doing now
 
